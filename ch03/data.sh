@@ -1,0 +1,1 @@
+wget -O - https://nlp100.github.io/2025/_downloads/ca47e7baf341469cd7b585f97496c020/jawiki-country.json.gz | gunzip > jawiki-country.json

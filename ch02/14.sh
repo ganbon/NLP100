@@ -1,0 +1,1 @@
+head popular-names.txt | cut -f1 
