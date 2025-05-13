@@ -1,1 +1,8 @@
+ipykernel
 requests
+sudachipy 
+sudachidict_core
+spacy
+ginza
+ja_ginza
+numpy
